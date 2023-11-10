@@ -1,2 +1,2 @@
-# RR-Mengajar
-Sensor Ultrasonik + LCD I2C
+# KRTMI2024
+Controller Stick PS3
